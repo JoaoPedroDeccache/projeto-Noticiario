@@ -5,7 +5,7 @@ Principal:
 #262626
 
 Esportes:
-#00D320
+ #06a11e
 
 Tecnologia:
 #F2D0F2

@@ -7,22 +7,42 @@
 header{
     padding: 10px;
     text-align: center;
-    height: 40px;
+    height: 30px;
 }
 main{
-    width: auto;
+    width: 90%;
     margin: auto;
    text-align: justify;
 }
-article{
-    width: 300px;
-    background-image: url(../imagens/neymar-coletiva.avif);
-    background-size: cover;
-    
-}
-h2, p {
+h2{
     margin: 5px;
+    font-size: 1.6em;
 }
 p{
     font-size: 1.3em;
+    margin: 30px;
+}
+#titulo{
+    margin: 50px 5px 15px 5px;
+}
+img{
+    margin: 10px 0px;
+    width: 93%;
+    border-radius: 10px;
+}
+h3.subtitulo{
+    font-size: 0.9em;
+    color: gray;
+}
+ul{
+    font-size: 1.3em;
+    list-style-position: inside;
+}
+.destaque{
+    font-size: 1.5em;
+    font-weight: bolder;
+}
+h3{
+    font-size: 1.4em;
+    font-weight: bolder;
 }
