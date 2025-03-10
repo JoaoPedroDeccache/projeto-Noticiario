@@ -43,7 +43,7 @@ p.pfl{
 }
 div.dpfl{
     margin: 10px 10px 40px 10px;
-    height: 360px;
+    height: 350px;
 }
 p.fut{
     margin: -14px 0px 0px 0px;
@@ -52,6 +52,18 @@ p.fut{
 }
 div.dfut{
     margin: 10px 10px 40px 10px;
+    height: 400px;
+}
+p.fla{
+    margin: -14px 0px 0px 0px;
+    font-size: 1.1em;
+    padding: 0px 5px 0px 5px;
+    text-align: left;
+    width: 400px;
+}
+div.dfla{
+    margin: 10px 10px 40px 10px;
+    height: 350px;
 }
 .montserrat {
     font-family: "Montserrat", serif;
