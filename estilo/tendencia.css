@@ -1,20 +1,12 @@
 @charset "UTF-8";
 header{
-    background-color: #239835;
+    background-color: #731436;
     color: white;
-    font-size: 0.9em;
+    padding-bottom: 13px;
 }
-
 .montserrat {
     font-family: "Montserrat", serif;
     font-optical-sizing: auto;
     font-weight: 300;
     font-style: normal;
   }
-  p{
-    text-align: left;
-  }
-  h2{
-    text-align: left;
-  }
-  

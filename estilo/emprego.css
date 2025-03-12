@@ -1,16 +1,19 @@
 @charset "UTF-8";
 header{
-    background-color: red;;
+    background-color: #051726; 
 }
 .montserrat {
     font-family: "Montserrat", serif;
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
+    color: white;
   }
-  .titulo{
-    text-align: left;
+  ol{
+    margin: 30px 0px;
   }
-  p{
-    text-align:left;
+  li{
+    margin: 15px 0px;
+    font-size: 1.3em;
+    list-style-position: inside;
   }

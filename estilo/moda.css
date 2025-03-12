@@ -1,0 +1,63 @@
+@charset "UTF-8";
+body{
+    background-color: rgb(235, 230, 230);
+    height: 1300px;
+ }
+ header{
+     margin-bottom: 20px;
+     background-color: #731436;
+     padding: 10px 0px 20px 0px;
+     color: white;
+     font-size: 1em;
+ }
+ img{
+     border-radius: 0px;
+     border-top-left-radius: 10px;
+     border-top-right-radius: 10px;
+     width: 100%;
+     display: block;
+     margin: 0px;
+ }
+ a{
+     text-decoration: none;
+     color:  #D95585;
+     font-size: 1.2em;
+ }
+ div{
+     box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.463);
+     background-color: white;
+     border-radius: 10px;
+ }
+ .montserrat {
+     font-family: "Montserrat", serif;
+     font-optical-sizing: auto;
+     font-weight: 400;
+     font-style: normal;
+   }
+   #dten{
+    margin: 10px 10px 40px 10px;
+    height: 275px;
+   }
+   #ten{
+    margin: -14px 0px 0px 0px;
+    font-size: 1.1em;
+    padding: 0px 5px 0px 5px;
+   }
+   #dcal{
+    margin: 10px 10px 40px 10px;
+    height: 355px;
+   }
+   #cal{
+    margin: -14px 0px 0px 0px;
+    font-size: 1.1em;
+    padding: 0px 5px 0px 5px;
+   }
+   #dnov{
+    margin: 10px 10px 40px 10px;
+    height: 369px;
+   }
+   #nov{
+    margin: -14px 0px 0px 0px;
+    font-size: 1.1em;
+    padding: 0px 5px 0px 5px;
+   }

@@ -3,3 +3,9 @@ header{
     background-color: rgb(192, 16, 16);
     color: white;
 }
+p{
+    text-align: left;
+  }
+  h2{
+    text-align: left;
+  }
