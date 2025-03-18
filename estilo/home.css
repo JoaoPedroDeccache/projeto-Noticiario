@@ -15,6 +15,13 @@ body{
     font-weight: 400;
     font-style: normal;
   }
+  menu{
+    display: block;
+  }
+
+  menu > ul > li > a{
+    display: block;
+  }
   
  img{
      border-radius: 0px;
